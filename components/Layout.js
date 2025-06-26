@@ -1,5 +1,3 @@
-// ✅ Layout.js 页面（或你的导航栏组件）
-
 import Link from 'next/link';
 import { useEffect, useState } from 'react';
 import { supabase } from '../supabaseClient';
