@@ -1,6 +1,3 @@
-// ✅ Register.js 页面
-// 请放在你的 pages 文件夹中（或 src/pages）
-
 import { useState } from 'react';
 import { useRouter } from 'next/router';
 import { supabase } from '../supabaseClient';
